@@ -1,4 +1,5 @@
 
+SAU 2022
 
 The REST api server utilizes the Gin framework, GORM db api and Swag for providing swagger documentation
 * [Gin](https://github.com/gin-gonic/gin)
